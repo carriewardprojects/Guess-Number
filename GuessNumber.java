@@ -12,7 +12,7 @@ public class GuessNumber {
 
 		//it would be benificial to begin a loop here to allow
 		//the user to have multiple guesses until they arrive
-		//at the magic number
+		//at the magic number.
 		System.out.System.out.print("Enter your guess:");
 		int guess = input.nextInt();
 
