@@ -10,7 +10,7 @@ public class GuessNumber {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Guess a magic number between 0 and 100");
 
-		//it would be benificial to begin a loop here to allow
+		//It would be benificial to begin a loop here to allow
 		//the user to have multiple guesses until they arrive
 		//at the magic number.
 		System.out.System.out.print("Enter your guess:");
